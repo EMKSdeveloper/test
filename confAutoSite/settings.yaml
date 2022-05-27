@@ -1,0 +1,11 @@
+client_id: 1063912469507-70vggkjnagmsjtl1el04v7oro24nlsdu.apps.googleusercontent.com
+client_secret: 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
+
+client_config_backend: settings
+client_config:
+  # client_id: 1063912469507-70vggkjnagmsjtl1el04v7oro24nlsdu.apps.googleusercontent.com
+  # client_secret: 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
+save_credentials_backend: file
+save_credentials_file: credentials.jsonget_refresh_token: Trueoauth_scope: -https://www.googleapis.com/auth/drive.file
+client_id: 1063912469507-70vggkjnagmsjtl1el04v7oro24nlsdu.apps.googleusercontent.com
+client_secret: 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
